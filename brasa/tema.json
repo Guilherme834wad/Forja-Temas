@@ -1,0 +1,21 @@
+{
+  "nome": "Brasa",
+  "autor": "FORJA",
+  "descricao": "Forja em brasa: preto quente e laranja, como o nome do FORJA.",
+  "cores": {
+    "Bg": "#070505",
+    "Panel": "#D90C0807",
+    "Card": "#C7120C0A",
+    "Hover": "#2A1610",
+    "Line": "#40FF7A30",
+    "LineStrong": "#80FF7A30",
+    "Fg": "#FFF3EA",
+    "Muted": "#C9A898",
+    "Faint": "#7A5B4C",
+    "Ink": "#140804"
+  },
+  "fundo": "fundo.jpg",
+  "opacidadeFundo": 0.5,
+  "som": "conquista.wav",
+  "capa": "capa.jpg"
+}

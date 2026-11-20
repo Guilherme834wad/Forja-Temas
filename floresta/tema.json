@@ -1,0 +1,21 @@
+{
+  "nome": "Floresta",
+  "autor": "FORJA",
+  "descricao": "Floresta com nevoeiro e luz a atravessar as árvores.",
+  "cores": {
+    "Bg": "#060D09",
+    "Panel": "#CC0A140E",
+    "Card": "#B30E1A12",
+    "Hover": "#183022",
+    "Line": "#3390D8A0",
+    "LineStrong": "#6690D8A0",
+    "Fg": "#EEF8F0",
+    "Muted": "#A2BFA9",
+    "Faint": "#5C7A63",
+    "Ink": "#06100A"
+  },
+  "fundo": "fundo.jpg",
+  "opacidadeFundo": 0.5,
+  "som": "conquista.wav",
+  "capa": "capa.jpg"
+}

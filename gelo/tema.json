@@ -1,0 +1,21 @@
+{
+  "nome": "Gelo",
+  "autor": "FORJA",
+  "descricao": "Montanhas geladas e aurora boreal, em azul frio.",
+  "cores": {
+    "Bg": "#050B14",
+    "Panel": "#CC08121E",
+    "Card": "#B30C1828",
+    "Hover": "#152A40",
+    "Line": "#3378C8FF",
+    "LineStrong": "#6678C8FF",
+    "Fg": "#EEF6FF",
+    "Muted": "#9DB3C9",
+    "Faint": "#58708A",
+    "Ink": "#06101C"
+  },
+  "fundo": "fundo.jpg",
+  "opacidadeFundo": 0.55,
+  "som": "conquista.wav",
+  "capa": "capa.jpg"
+}

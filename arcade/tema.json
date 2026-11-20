@@ -1,0 +1,21 @@
+{
+  "nome": "Arcade",
+  "autor": "FORJA",
+  "descricao": "Cidade ao pôr do sol em estilo retro. Painéis translúcidos sobre a imagem.",
+  "cores": {
+    "Bg": "#0B0614",
+    "Panel": "#CC120A1E",
+    "Card": "#B3140C22",
+    "Hover": "#2A1838",
+    "Line": "#33FF7AA8",
+    "LineStrong": "#66FF7AA8",
+    "Fg": "#FFF1F7",
+    "Muted": "#C9A9C7",
+    "Faint": "#7E6380",
+    "Ink": "#14081C"
+  },
+  "fundo": "fundo.jpg",
+  "opacidadeFundo": 0.55,
+  "som": "conquista.wav",
+  "capa": "capa.jpg"
+}

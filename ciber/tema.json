@@ -1,0 +1,21 @@
+{
+  "nome": "Ciber",
+  "autor": "FORJA",
+  "descricao": "Sala de servidores à noite, monitores acesos e néon roxo.",
+  "cores": {
+    "Bg": "#07050F",
+    "Panel": "#CC0D0A1C",
+    "Card": "#B3140F28",
+    "Hover": "#241A44",
+    "Line": "#339A80FF",
+    "LineStrong": "#669A80FF",
+    "Fg": "#F1EDFF",
+    "Muted": "#ADA3D1",
+    "Faint": "#6A6090",
+    "Ink": "#0A0716"
+  },
+  "fundo": "fundo.jpg",
+  "opacidadeFundo": 0.6,
+  "som": "conquista.wav",
+  "capa": "capa.jpg"
+}
